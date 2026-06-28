@@ -4,4 +4,3 @@ Enunciado: Faça um algoritmo em Python que leia dois números reais. O algoritm
 somar os dois números e exibir o resultado final na tela.
 
 '''
-
